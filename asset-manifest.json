@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/brilha-brilha/static/js/main.9d5375c0.chunk.js",
+    "main.js.map": "/brilha-brilha/static/js/main.9d5375c0.chunk.js.map",
+    "runtime-main.js": "/brilha-brilha/static/js/runtime-main.c0ea9052.js",
+    "runtime-main.js.map": "/brilha-brilha/static/js/runtime-main.c0ea9052.js.map",
+    "static/js/2.6617b313.chunk.js": "/brilha-brilha/static/js/2.6617b313.chunk.js",
+    "static/js/2.6617b313.chunk.js.map": "/brilha-brilha/static/js/2.6617b313.chunk.js.map",
+    "index.html": "/brilha-brilha/index.html",
+    "precache-manifest.3c2e10dad8771ee9f987258ffdaa899e.js": "/brilha-brilha/precache-manifest.3c2e10dad8771ee9f987258ffdaa899e.js",
+    "service-worker.js": "/brilha-brilha/service-worker.js",
+    "static/js/2.6617b313.chunk.js.LICENSE.txt": "/brilha-brilha/static/js/2.6617b313.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0ea9052.js",
+    "static/js/2.6617b313.chunk.js",
+    "static/js/main.9d5375c0.chunk.js"
+  ]
+}
